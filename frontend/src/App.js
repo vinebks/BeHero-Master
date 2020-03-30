@@ -1,9 +1,13 @@
 import React from 'react';
 
+import Logon from '../src/pages/Logon'
+
 function App() {
+
   return (
-    <h1>Hello World</h1>
+  <Logon /> 
   );
 }
+
 
 export default App;
